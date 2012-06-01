@@ -10,6 +10,8 @@ Den svenska Jantelagen gör dock att ingen gärna tar en tydlig ledarposition i 
 Utan tydligt ledarskap faller uppgifter mellan stolarna och gruppen förlorar sin fokus.
 
 Grupparbete kan dock leda till högre effektivitet om det sköts på rätt sätt. I vår grupp uppnåddes goda resultat både på kodsidan och vad gäller det grafiska gränssnittet, mycket på grund av att kommunikationen var god och man därmed kunde utnyttja gruppmedlemmarnas individuella styrkor.
+Att teamets informationsflöde dessutom präglades av issue-hantering hos Github och Google Groups ledde till att alla i teamet uppdaterades samtidigt. Som nämns nedan har fysiska möten använts i mindre utsträckning vilket har lett till att inofficiella kommunikationskanaler såsom mun-till-mun mellan gruppmedlemmar, som kan orsaka dubbelarbete, har eliminerats.
+
 
 ## 2. Metoder som användes för att skapa dokumenten
 Projektets första dokument skapades i gemensamma Google Documents-dokument. På detta sätt kunde alla kollaborera i realtid.
@@ -19,7 +21,7 @@ Därför gick gruppen över till Markdown-dokument.
 ## 3. SE-metodernas lämplighet
 De SE-metoder som användes inom projektet fungerade väldigt bra. Exempel på dessa är versionshantering med Git, code hosting och issue-hantering hos Github samt kommunikation via Google Groups och IRC-kanal. 
 
-Av praktiska skäl kunde gruppmedlemmarna inte träffas oftare än några enstaka gånger i veckan. Istället sköttes kommunikation och kollaborering med de tidigare nämnda verktygen. Detta fungerade över förväntan. Särskilt under den sista hektiska utvecklingsveckan var effektiviteten inom gruppen mycket hög trots avsaknaden av fysiska möten. Issue-hanteringen såg till att inga uppgifter föll mellan stolarna.
+Av praktiska skäl kunde gruppmedlemmarna inte träffas oftare än några enstaka gånger i veckan. Istället sköttes kommunikation och kollaborering med de tidigare nämnda verktygen. Detta fungerade över förväntan. Särskilt under den sista hektiska utvecklingsveckan var effektiviteten inom gruppen mycket hög trots avsaknaden av fysiska möten. Issue-hanteringen såg till att inga uppgifter föll mellan stolarna. Då en gruppmedlem pushade kod och samtidigt var medveten om att den inte var fullständigt korrekt, skapades samtidigt en issue. Detta för att signalera till övriga i teamet att framgång gjorts men koden inte är fullständig ännu. På detta sätt uppnåddes en hög effektivitet och minimalt med dubbelarbete. 
 
 De SE-tekniker som fungerade mindre väl var de som helt enkelt aldrig implementerades ordentligt. 
 Projektet använde sig inte av någon tydlig arbetsmodell, som vattenfall eller SCRUM, utan använde sig av mer intuitiva arbetsmetoder. 
